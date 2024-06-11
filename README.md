@@ -6,6 +6,8 @@
 
     Make sure Python is installed on your system
 
+    **(This project uses Python `3.9.16`)**
+
 2. Setting up environment
 
     Execute the following lines in the terminal to switch to your project folder (change path to the path to your local project directory) and create virtual environment:
