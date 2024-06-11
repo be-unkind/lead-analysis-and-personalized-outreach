@@ -29,6 +29,8 @@
 
         Open the .env file in a text editor and add your API keys:
 
+        (Groq API key can be generated in Groq console: [link to Groq console (keys)](https://console.groq.com/keys))
+
         ```
         GROQ_API_KEY='your_groq_api_key_here'
         ```
