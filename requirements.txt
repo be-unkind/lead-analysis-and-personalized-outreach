@@ -1,0 +1,15 @@
+chromadb==0.5.0
+gradio==4.29.0
+gradio_client==0.16.1
+groq==0.5.0
+langchain==0.2.3
+langchain-community==0.0.36
+langchain-core==0.2.5
+langchain-experimental==0.0.57
+langchain-huggingface==0.0.3
+langdetect==1.0.9
+pyautogen==0.2.27
+PyMuPDF==1.24.5
+PyMuPDFb==1.24.3
+transformers==4.41.2
+
